@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\affamanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\turnircedveli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\turnircedveli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\business\\turnirandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\business\\turnirandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\affamanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\affamanagement\\turnircedveli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\turnircedveli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\affamanagement\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\turnircedveli.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\turnircedveli.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\affamanagement\\oyun neticeleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\oyun neticeleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\database\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\database\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\oyun neticeleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\oyun neticeleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\entity\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\entity\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\entity\\resultgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\entity\\resultgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\entity\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\entity\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\affamanagement\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\oyun neticeleri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\oyun neticeleri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|c:\\users\\lenovo\\documents\\windows form c#\\affamanagement\\affamanagement\\adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4474EA92-80F3-4069-8278-0D4482573B68}|AffaManagement\\AffaManagement.csproj|solutionrelative:affamanagement\\adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Form1.cs",
+              "RelativeToolTip": "AffaManagement\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:17:55.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\AdminPanel.cs",
+              "RelativeToolTip": "AffaManagement\\AdminPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:44:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Program.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Program.cs",
+              "RelativeToolTip": "AffaManagement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vwsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:14:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnirCedveli.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\TurnirCedveli.Designer.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\TurnirCedveli.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\TurnirCedveli.Designer.cs",
+              "RelativeToolTip": "AffaManagement\\TurnirCedveli.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwHcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:09:41.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\UserPanel.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\UserPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\UserPanel.cs",
+              "RelativeToolTip": "AffaManagement\\UserPanel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:20:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnirAndResult.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Business\\TurnirAndResult.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Business\\TurnirAndResult.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Business\\TurnirAndResult.cs",
+              "RelativeToolTip": "AffaManagement\\Business\\TurnirAndResult.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:12:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\UserPanel.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\UserPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\UserPanel.cs [Design]",
+              "RelativeToolTip": "AffaManagement\\UserPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:33:30.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "AffaManagement\\AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:33:09.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "AffaManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:57:59.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TurnirCedveli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\TurnirCedveli.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\TurnirCedveli.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\TurnirCedveli.cs [Design]",
+              "RelativeToolTip": "AffaManagement\\TurnirCedveli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:40:36.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnirCedveli.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\TurnirCedveli.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\TurnirCedveli.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\TurnirCedveli.cs",
+              "RelativeToolTip": "AffaManagement\\TurnirCedveli.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:59:09.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\DataBase\\DbHelper.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\DataBase\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\DataBase\\DbHelper.cs",
+              "RelativeToolTip": "AffaManagement\\DataBase\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:07:50.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Oyun Neticeleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Oyun Neticeleri.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Oyun Neticeleri.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Oyun Neticeleri.cs [Design]",
+              "RelativeToolTip": "AffaManagement\\Oyun Neticeleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:17:46.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Oyun Neticeleri.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Oyun Neticeleri.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Oyun Neticeleri.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Oyun Neticeleri.cs",
+              "RelativeToolTip": "AffaManagement\\Oyun Neticeleri.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:22:08.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\User.cs",
+              "RelativeToolTip": "AffaManagement\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:03:21.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\Team.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Entity\\Team.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\Team.cs",
+              "RelativeToolTip": "AffaManagement\\Entity\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:38:40.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Form1.Designer.cs",
+              "RelativeToolTip": "AffaManagement\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:10:49.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Signup.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Signup.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Signup.cs",
+              "RelativeToolTip": "AffaManagement\\Signup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:07:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Signup.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Signup.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Signup.cs [Design]",
+              "RelativeToolTip": "AffaManagement\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:03:55.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\Game.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Entity\\Game.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\Game.cs",
+              "RelativeToolTip": "AffaManagement\\Entity\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:20:51.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResultGame.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\ResultGame.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Entity\\ResultGame.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Entity\\ResultGame.cs",
+              "RelativeToolTip": "AffaManagement\\Entity\\ResultGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:23:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Oyun Neticeleri.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Oyun Neticeleri.Designer.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\Oyun Neticeleri.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\Oyun Neticeleri.Designer.cs",
+              "RelativeToolTip": "AffaManagement\\Oyun Neticeleri.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:46:04.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\AdminPanel.Designer.cs",
+              "RelativeDocumentMoniker": "AffaManagement\\AdminPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\AffaManagement\\AffaManagement\\AdminPanel.Designer.cs",
+              "RelativeToolTip": "AffaManagement\\AdminPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:40:53.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
